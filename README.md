@@ -7,5 +7,11 @@
 * Contributors generally help each-other's side projects and work towards common goals as a team to work more effectively.
 * Contributors receive peer mentoring 
 
+### LinkedIn
+* https://www.linkedin.com/company/digital-rebellion/about
+
 ### Keybase
 * https://keybase.io/team/digitalrebellion
+
+### Reddit
+* https://www.reddit.com/r/DigitalRebellion
