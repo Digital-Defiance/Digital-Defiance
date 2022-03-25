@@ -6,3 +6,6 @@
 * We also look for deserving open source projects that need either process coaching, an extra hand fixing bugs, or any other need.
 * Contributors generally help each-other's side projects and work towards common goals as a team to work more effectively.
 * Contributors receive peer mentoring 
+
+### Keybase
+* https://keybase.io/team/digitalrebellion
