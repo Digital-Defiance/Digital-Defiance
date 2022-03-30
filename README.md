@@ -7,6 +7,11 @@
 * Contributors generally help each-other's side projects and work towards common goals as a team to work more effectively.
 * Contributors receive peer mentoring 
 
+## The Name
+Frankly, the name is not my (FreddieMercurial's) favorite. I have been working on a massive scale project called "The Revolution Network", so "Digital Rebellion" was frankly all I could think of in line with that.
+
+Both names are up for change. Are you in marketing? Help out!
+
 ### LinkedIn
 * https://www.linkedin.com/company/digital-rebellion/about
 
