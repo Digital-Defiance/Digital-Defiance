@@ -7,8 +7,8 @@
 * Contributors generally help each-other's passion projects and work towards common goals as a team to work more effectively.
 * Contributors receive peer mentoring and learn agile processes and enterprise development methodologies
 * Everyone is essentially a partner in an open source group run like a high velocity agile team at any big enterprise
- - Okay! Okay! You got me! Slow velocity, but we'll get there!
- - Also there is absolutely zero pressure to perform at any given time! Whatever anyone contributes is great, but try not to commit to work and vanish!
+  - Okay! Okay! You got me! Slow velocity, but we'll get there!
+  - Also there is absolutely zero pressure to perform at any given time! Whatever anyone contributes is great, but try not to commit to work and vanish!
 
 ## The Name
 Frankly, the name is not my (FreddieMercurial's) favorite. I have been working on a massive scale project called "The Revolution Network", so "Digital Rebellion" was frankly all I could think of in line with that.
