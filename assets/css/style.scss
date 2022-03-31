@@ -1,6 +1,10 @@
 ---
 ---
 @import "jekyll-theme-hacker";
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(90, 138, 233);
+}
+
 header h1 {
   color: rgb(117, 56, 82);
 }
