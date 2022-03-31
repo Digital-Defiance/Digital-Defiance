@@ -17,14 +17,14 @@ Both names are up for change. Are you in marketing? Help out!
 
 ## Contributors
 
-* https://github.com/orgs/Digital-Rebellion/people
-* https://github.com/Digital-Rebellion/Digital-Rebellion/wiki/Contributors
+* [https://github.com/orgs/Digital-Rebellion/people](https://github.com/orgs/Digital-Rebellion/people)
+* [https://github.com/Digital-Rebellion/Digital-Rebellion/wiki/Contributors](https://github.com/Digital-Rebellion/Digital-Rebellion/wiki/Contributors)
 
 ### LinkedIn
-* https://www.linkedin.com/company/digital-rebellion/about
+* [https://www.linkedin.com/company/digital-rebellion/about](https://www.linkedin.com/company/digital-rebellion/about)
 
 ### Keybase
-* https://keybase.io/team/digitalrebellion
+* [https://keybase.io/team/digitalrebellion](https://keybase.io/team/digitalrebellion)
 
 ### Reddit
-* https://www.reddit.com/r/DigitalRebellion
+* [https://www.reddit.com/r/DigitalRebellion](https://www.reddit.com/r/DigitalRebellion)
