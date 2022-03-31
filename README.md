@@ -15,6 +15,11 @@ Frankly, the name is not my (FreddieMercurial's) favorite. I have been working o
 
 Both names are up for change. Are you in marketing? Help out!
 
+## Contributors
+
+* https://github.com/orgs/Digital-Rebellion/people
+* https://github.com/Digital-Rebellion/Digital-Rebellion/wiki/Contributors
+
 ### LinkedIn
 * https://www.linkedin.com/company/digital-rebellion/about
 
