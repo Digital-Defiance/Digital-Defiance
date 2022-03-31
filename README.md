@@ -11,28 +11,27 @@
   - Also there is absolutely zero pressure to perform at any given time! Whatever anyone contributes is great, but try not to commit to work and vanish!
 
 ## The Name
-Frankly, the name is not my (FreddieMercurial's) favorite. I have been working on a massive scale project called "The Revolution Network", so "Digital Rebellion" was frankly all I could think of in line with that.
+I (FreddieMercurial) have been working on a massive scale project called "The Revolution Network", so "Digital Rebellion" was frankly all I could think of in line with that.
 
-Both names are up for change. Are you in marketing? Help out!
-
-## Contributors
-
-* [https://github.com/orgs/Digital-Rebellion/people](https://github.com/orgs/Digital-Rebellion/people)
-* [https://github.com/Digital-Rebellion/Digital-Rebellion/wiki/Contributors](https://github.com/Digital-Rebellion/Digital-Rebellion/wiki/Contributors)
 
 ## Sites
-  ### GitHub (primary collaboration hub)
+### GitHub (primary collaboration hub)
   * [https://github.com/Digital-Rebellion](https://github.com/Digital-Rebellion)
 
-  ### Keybase (primary communication hub and github repo backup)
+### Keybase (primary communication hub and github repo backup)
   * [https://keybase.io/team/digitalrebellion](https://keybase.io/team/digitalrebellion)
 
-  ### LinkedIn
+### LinkedIn
   * [https://www.linkedin.com/company/digital-rebellion/about](https://www.linkedin.com/company/digital-rebellion/about)
 
-  ### Reddit
+### Reddit
   * [https://www.reddit.com/r/DigitalRebellion](https://www.reddit.com/r/DigitalRebellion)
 
+-----
+# Contributors
+  * [https://github.com/orgs/Digital-Rebellion/people](https://github.com/orgs/Digital-Rebellion/people)
+  * [https://github.com/Digital-Rebellion/Digital-Rebellion/wiki/Contributors](https://github.com/Digital-Rebellion/Digital-Rebellion/wiki/Contributors)
+
 # Projects Under Development
-* [https://github.com/orgs/Digital-Rebellion/projects/1](https://github.com/orgs/Digital-Rebellion/projects/1)
+  * [https://github.com/orgs/Digital-Rebellion/projects/1](https://github.com/orgs/Digital-Rebellion/projects/1)
   
