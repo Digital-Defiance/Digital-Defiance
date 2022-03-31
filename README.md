@@ -16,7 +16,8 @@ I (FreddieMercurial) have been working on a massive scale project called "The Re
 
 ## Sites
 ### GitHub (primary collaboration hub)
-  * [https://github.com/Digital-Rebellion](https://github.com/Digital-Rebellion)
+  * [https://github.com/Digital-Rebellion](https://github.com/Digital-Rebellion) - Organization
+  * [https://digital-rebellion.github.io/Digital-Rebellion/](https://digital-rebellion.github.io/Digital-Rebellion/) - This page
 
 ### Keybase (primary communication hub and github repo backup)
   * [https://keybase.io/team/digitalrebellion](https://keybase.io/team/digitalrebellion)
