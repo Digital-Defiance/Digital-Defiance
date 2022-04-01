@@ -1,6 +1,6 @@
-# Digital Rebellion
+# Digital Defiance
 ## Tackling the Nebraskan projects for all humankind
-### Join the "rebellion" against mediocrity and foreign actor exploits.
+### Join the Defiant effort against mediocre code and foreign actor exploits.
 * Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
 * We have our own passion projects which are generally for the planet, both fun/demonstrative as well as libraries to enable those.
 * We also look for deserving open source projects that need either process coaching, an extra hand fixing bugs, or any other need.
@@ -16,11 +16,11 @@ I (FreddieMercurial) have been working on a massive scale project called "The Re
 
 ## Sites
 ### GitHub (primary collaboration hub)
-  * [https://github.com/Digital-Rebellion](https://github.com/Digital-Rebellion) - Organization
-  * [https://digital-rebellion.github.io/Digital-Rebellion/](https://digital-rebellion.github.io/Digital-Rebellion/) - This page
+  * [https://github.com/Digital-Defiance](https://github.com/Digital-Defiance) - Organization
+  * [https://digitaldefiance.org](https://digitaldefiance.org) - This page
 
 ### Keybase (primary communication hub and github repo backup)
-  * [https://keybase.io/team/digitalrebellion](https://keybase.io/team/digitalrebellion)
+  * [https://keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
 
 ### LinkedIn
   * [https://www.linkedin.com/company/digital-rebellion/about](https://www.linkedin.com/company/digital-rebellion/about)
