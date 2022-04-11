@@ -11,7 +11,7 @@
   - Also there is absolutely zero pressure to perform at any given time! Whatever anyone contributes is great, but try not to commit to work and vanish!
 
 ## The Name
-I (FreddieMercurial) have been working on a massive scale project called "The Revolution Network", so "Digital Rebellion" was frankly all I could think of in line with that. After an evolutionary process, "Digital Defiance" emerged unexpectedly and won.
+FreddieMercurial has been working on a massive scale project called "The Revolution Network" and "Digital Rebellion" was frankly all they could think of in line with that. After a team discussion and evolutionary process, "Digital Defiance" emerged unexpectedly and won.
 
 
 ## Sites
@@ -32,6 +32,8 @@ I (FreddieMercurial) have been working on a massive scale project called "The Re
 # Contributors
   * [https://github.com/orgs/Digital-Defiance/people](https://github.com/orgs/Digital-Defiance/people)
   * [https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors)
+  * Co-Founders
+    - More than contributors, [BDisp](https://github.com/orgs/Digital-Defiance/people/BDisp) and [Rui Campos](https://github.com/orgs/Digital-Defiance/people/RuiFilipeCampos) are co-founders of this organization.
 
 # Projects Under Development
   * [https://github.com/orgs/Digital-Defiance/projects/1](https://github.com/orgs/Digital-Defiance/projects/1)
