@@ -35,4 +35,5 @@ I (FreddieMercurial) have been working on a massive scale project called "The Re
 
 # Projects Under Development
   * [https://github.com/orgs/Digital-Defiance/projects/1](https://github.com/orgs/Digital-Defiance/projects/1)
+    - [HACC](https://github.com/Blazor-Console/HACC) HTML5 ANSI Console Canvas: A Blazor WebAssembly Component
   
