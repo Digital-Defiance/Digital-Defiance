@@ -1,6 +1,7 @@
 # Digital Defiance
 ## Tackling the Nebraskan projects for all humankind
 ### Join the Defiant effort against mediocre code and foreign actor exploits.
+* Founded in 2022 by Jessica Mulein, aka "Freddie Mercurial" on GitHub with the help of BDisp and Rui Campos.
 * Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
 * We have our own passion projects which are generally for the planet, both fun/demonstrative as well as libraries to enable those.
 * We also look for deserving open source projects that need either process coaching, an extra hand fixing bugs, or any other need.
