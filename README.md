@@ -31,9 +31,6 @@ JessieMercurial has been working on a massive scale project called "The Revoluti
 ### Reddit
   * [https://www.reddit.com/r/DigitalRebellion](https://www.reddit.com/r/DigitalRebellion)
 
-### Mastadon
-  * [https://fivebyfive.social/](https://fivebyfive.social) - beta, currently invite only.
-
 -----
 # Contributors
   * [https://github.com/orgs/Digital-Defiance/people](https://github.com/orgs/Digital-Defiance/people)
