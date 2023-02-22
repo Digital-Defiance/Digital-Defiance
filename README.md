@@ -12,6 +12,18 @@ A 501c4 (WA State) non-profit group of Software Engineers working together to ma
 * Everyone is essentially a partner in an open source group run like a high velocity agile team at any big enterprise
   - Okay! Okay! You got me! Slow velocity, but we'll get there!
   - Also there is absolutely zero pressure to perform at any given time! Whatever anyone contributes is great, but try not to commit to work and vanish!
+  
+## 501c4 Open Source Software Engineering Guild
+I need to write it up better, but essentially Digital Defiance is an open source software engineering guild.
+- Members get access to discounted software and other perks with our nonprofit status.
+- Members mentor each other using our pet projects that are generally for the public good.
+- Members try to prioritize working on designated critical tasks from community projects- generally on GitHub.
+- We'll have occasional meetings to discuss which project tasks go to the top of the pile and try to generally follow and teach Agile principles.
+- There is already a 24-7 chatroom on Keybase where we already have several members discussing various projects being worked on.
+- This is not (yet?) a union and we do not and will not strike as these are open source developers working in an unpaid volunteer capacity.
+- Dues will go towards our software subscriptions and other overhead
+- Additional income beyond our needs will possibly be distributed to developers as bug/ticket bounties.
+- If this sounds good to you, check out DigitalDefiance.org or email jessica@digitaldefiance.org
 
 ## The Name
 JessieMercurial has been working on a massive scale project called "The Revolution Network" and "Digital Rebellion" was frankly all they could think of in line with that. After a team discussion and evolutionary process, "Digital Defiance" emerged unexpectedly and won.
