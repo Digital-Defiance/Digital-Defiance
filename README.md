@@ -2,7 +2,7 @@
 ## Tackling the Nebraskan projects for all humankind
 ### Join the Defiant effort against mediocre code and foreign actor exploits.
 
-A non-profit group of Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
+A 501c4 (WA State) non-profit group of Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
 
 * Founded in 2022 by Jessica Mulein, aka "Jessie Mercurial" on GitHub with the help of BDisp and Rui Campos.
 * We have our own passion projects which are generally for the planet, both fun/demonstrative as well as libraries to enable those.
