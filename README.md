@@ -25,6 +25,9 @@ I need to write it up better, but essentially Digital Defiance is an open source
 - Additional income beyond our needs will possibly be distributed to developers as bug/ticket bounties.
 - If this sounds good to you, check out DigitalDefiance.org or email jessica@digitaldefiance.org
 
+## Mission Statement
+To create a fellowship of software engineers, mentoring new and seasoned colleagues alike, who will work together on projects of public utility and interest. We will gain new knowledge on our personal projects and select high priority work from the Open Source community.
+
 ## The Name
 JessieMercurial has been working on a massive scale project called "The Revolution Network" and "Digital Rebellion" was frankly all they could think of in line with that. After a team discussion and evolutionary process, "Digital Defiance" emerged unexpectedly and won.
 
