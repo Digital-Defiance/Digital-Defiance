@@ -66,6 +66,6 @@ JessieMercurial has been working on a massive scale project called "The Revoluti
   * [https://github.com/Digital-Defiance/Duality-Social](https://github.com/Digital-Defiance/Duality-Social) Duality Social experimental network
 
 -----
-# Partners and Donors
+# [Partners and Donors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Partners-and-Donors)
  * Microsoft and [GitHub](https://support.github.com/contact/nonprofit) have given us non-profit status, including unlimited Team accounts.
  * Jessica Mulein provides most of the business licensing, software and accounting subscriptions, domain name and other fees associated with running the group.
