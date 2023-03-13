@@ -1,5 +1,5 @@
 # Digital Defiance
-## Tackling the Nebraskan projects for all humankind
+## Giving Open Source Software Engineers the support and mentorship they need to be effective in teams and most software workplaces.
 ### Join the Defiant effort against mediocre code and foreign actor exploits.
 
 A 501c4 (WA State) non-profit group of Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
