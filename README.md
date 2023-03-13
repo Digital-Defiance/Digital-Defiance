@@ -67,5 +67,5 @@ JessieMercurial has been working on a massive scale project called "The Revoluti
 
 -----
 # Partners and Donors
- * Microsoft and [https://support.github.com/contact/nonprofit](GitHub) have given us non-profit status, including unlimited Team accounts.
+ * Microsoft and [GitHub](https://support.github.com/contact/nonprofit) have given us non-profit status, including unlimited Team accounts.
  * Jessica Mulein provides most of the business licensing, software and accounting subscriptions, domain name and other fees associated with running the group.
