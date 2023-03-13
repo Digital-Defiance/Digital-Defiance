@@ -68,4 +68,5 @@ JessieMercurial has been working on a massive scale project called "The Revoluti
 -----
 # [Partners and Donors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Partners-and-Donors)
  * Microsoft and [GitHub](https://support.github.com/contact/nonprofit) have given us non-profit status, including unlimited Team accounts.
- * Jessica Mulein provides most of the business licensing, software and accounting subscriptions, domain name and other fees associated with running the group.
+ * [Jessica Mulein](mailto:jessica@mulein.com) provides most of the business licensing, software and accounting subscriptions, domain name and other fees associated with running the group.
+ * [Studio 3T](https://studio3t.com/discount/) has graciously given us a 50% discount on all licenses. We presently own one 'Ultimate' seat.
