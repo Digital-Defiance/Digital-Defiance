@@ -16,6 +16,8 @@ A 501c4 (WA State) non-profit group of Software Engineers working together to ma
 ## 501c4 Open Source Software Engineering Guild
 I need to write it up better, but essentially Digital Defiance is an open source software engineering guild.
 - Members get access to discounted software and other perks with our nonprofit status.
+  - Software useful for and to be used only for open source development.
+- Hopefully members get an email but currently that costs $35/user/year.
 - Members mentor each other using our pet projects that are generally for the public good.
 - Members try to prioritize working on designated critical tasks from community projects- generally on GitHub.
 - We'll have occasional meetings to discuss which project tasks go to the top of the pile and try to generally follow and teach Agile principles.
