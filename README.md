@@ -64,3 +64,7 @@ JessieMercurial has been working on a massive scale project called "The Revoluti
   * [https://github.com/orgs/Digital-Defiance/projects/1](https://github.com/orgs/Digital-Defiance/projects/1)
     - [HACC](https://github.com/Blazor-Console/HACC) HTML5 ANSI Console Canvas: A Blazor WebAssembly Component
   * [https://github.com/Digital-Defiance/Duality-Social](https://github.com/Digital-Defiance/Duality-Social) Duality Social experimental network
+
+-----
+# Partners and Donors
+ * Microsoft and [https://support.github.com/contact/nonprofit](GitHub) have given us non-profit status, including unlimited Team accounts.
