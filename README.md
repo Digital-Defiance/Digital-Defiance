@@ -63,4 +63,4 @@ JessieMercurial has been working on a massive scale project called "The Revoluti
 # Projects Under Development
   * [https://github.com/orgs/Digital-Defiance/projects/1](https://github.com/orgs/Digital-Defiance/projects/1)
     - [HACC](https://github.com/Blazor-Console/HACC) HTML5 ANSI Console Canvas: A Blazor WebAssembly Component
-  
+  * [https://github.com/Digital-Defiance/Duality-Social](https://github.com/Digital-Defiance/Duality-Social) Duality Social experimental network
