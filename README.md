@@ -31,8 +31,11 @@ I need to write it up better, but essentially Digital Defiance is an open source
 To create a fellowship of software engineers, mentoring new and seasoned colleagues alike, who will work together on projects of public utility and interest. We will gain new knowledge on our personal projects and select high priority work from the Open Source community.
 
 ## The Name
-JessieMercurial has been working on a massive scale project called "The Revolution Network" and "Digital Rebellion" was frankly all they could think of in line with that. After a team discussion and evolutionary process, "Digital Defiance" emerged unexpectedly and won.
+"Digital Defiance" represents a group of open source software engineers who are challenging the traditional ways of working in the software industry. They are defying the notion that software development has to be done in a closed, proprietary environment. They are defying the idea that software engineers have to work in isolation, without support or mentorship.
 
+By creating a community of software engineers who work together to further projects of value to mankind, Digital Defiance is defying the norm and taking a stand against the status quo. They are also defying the idea that software development is only for profit, by prioritizing projects of public utility and interest.
+
+In short, Digital Defiance is a group of software engineers who are defying the traditional ways of working in the software industry, and instead are working together to create open source software that benefits society as a whole.
 
 ## Sites
 ### GitHub (primary collaboration hub)
