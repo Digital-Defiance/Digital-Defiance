@@ -74,3 +74,4 @@ In short, Digital Defiance is a group of software engineers who are defying the 
  * [Jessica Mulein](mailto:jessica@mulein.com) provides most of the business licensing, software and accounting subscriptions, domain name and other fees associated with running the group.
  * [Studio 3T](https://studio3t.com/discount/) has graciously given us a 50% discount on all licenses. We presently own one 'Ultimate' seat.
  * [Codacy](https://app.codacy.com/organizations/gh/Digital-Defiance) is free for Open Source and measures code quality similar to Dependabot
+ * [MongoDB](https://www.mongodb.com/startups) has graciously given us a $500 credit good for one year to help bootstrap our projects, including a site for the guild itself.
