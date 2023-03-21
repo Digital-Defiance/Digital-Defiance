@@ -14,6 +14,7 @@ A 501c4 (WA State) non-profit group of Software Engineers working together to ma
 * Everyone is essentially a partner in an open source group run like a high velocity agile team at any big enterprise
   - Okay! Okay! You got me! Slow velocity, but we'll get there!
   - Also there is absolutely zero pressure to perform at any given time! Whatever anyone contributes is great, but try not to commit to work and vanish!
+* When you have someone on your team with DDM or DDGM behind their name, you have all of the Digital Defiance Guild behind you. We all help each other on any project- with a focus on open source. You know you are getting a person who has a vocal interest in the open source community and who also has the support of that community.
   
 ## 501c4 Open Source Software Engineering Guild
 I need to write it up better, but essentially Digital Defiance is an open source software engineering guild.
