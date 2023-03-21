@@ -2,6 +2,8 @@
 ## Giving Open Source Software Engineers the support and mentorship they need to be effective in teams and most software workplaces.
 ### Join the Defiant effort against mediocre code and foreign actor exploits.
 
+![Original Logo](https://user-images.githubusercontent.com/3766240/226702903-ce6c1d2a-47fa-414f-a6dc-b65a5a805e9a.png)
+
 A 501c4 (WA State) non-profit group of Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
 
 * Founded in 2022 by Jessica Mulein, aka "Jessie Mercurial" on GitHub with the help of BDisp and Rui Campos.
