@@ -49,6 +49,14 @@ In short, Digital Defiance is a group of software engineers who are defying the 
   * [https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board](https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board) - Internal JIRA
 
 ### Keybase (primary communication hub and github repo backup)
+
+* [https://keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
+
+### Facebook
+
+* [https://www.facebook.com/DigitalDefiance/](https://www.facebook.com/DigitalDefiance/)
+
+### Keybase (primary communication hub and github repo backup)
   * [https://keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
 
 ### LinkedIn
