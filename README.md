@@ -64,7 +64,7 @@ In short, Digital Defiance is a group of software engineers who are defying the 
   * [https://www.linkedin.com/company/digital-defiance/about](https://www.linkedin.com/company/digital-rebellion/about)
 
 ### Reddit
-  * [https://www.reddit.com/r/DigitalRebellion](https://www.reddit.com/r/DigitalRebellion)
+  * [https://www.reddit.com/r/DigitalDefiance](https://www.reddit.com/r/DigitalDefiance/comments/11y3rvu/welcome_to_the_digital_defiance/)
 
 -----
 # Contributors
