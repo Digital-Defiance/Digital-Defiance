@@ -4,9 +4,9 @@
 
 ![Original Logo](https://user-images.githubusercontent.com/3766240/226702903-ce6c1d2a-47fa-414f-a6dc-b65a5a805e9a.png)
 
-A 501c4 (WA State) non-profit group of Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
+A 501c3 (federal filed 3/22/23) non-profit group of Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
 
-* Founded in 2022 by Jessica Mulein, aka "Jessie Mercurial" on GitHub with the help of BDisp and Rui Campos.
+* Founded in 2022, incorporated officially in 2023 by Jessica Mulein, aka "Jessie Mercurial" on GitHub with the help of BDisp and Rui Campos.
 * We have our own passion projects which are generally for the planet, both fun/demonstrative as well as libraries to enable those.
 * We also look for deserving open source projects that need either process coaching, an extra hand fixing bugs, or any other need.
 * Contributors generally help each-other's passion projects and work towards common goals as a team to work more effectively.
@@ -16,8 +16,7 @@ A 501c4 (WA State) non-profit group of Software Engineers working together to ma
   - Also there is absolutely zero pressure to perform at any given time! Whatever anyone contributes is great, but try not to commit to work and vanish!
 * When you have someone on your team with DDM or DDGM behind their name, you have all of the Digital Defiance Guild behind you. We all help each other on any project- with a focus on open source. You know you are getting a person who has a vocal interest in the open source community and who also has the support of that community.
   
-## 501c4 Open Source Software Engineering Guild
-I need to write it up better, but essentially Digital Defiance is an open source software engineering guild.
+## 501c3 Open Source Software Engineering Guild
 - Members get access to discounted software and other perks with our nonprofit status.
   - Software useful for and to be used only for open source development.
 - Hopefully members get an email but currently that costs $35/user/year.
