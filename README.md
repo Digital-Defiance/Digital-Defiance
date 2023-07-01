@@ -46,6 +46,7 @@ In short, Digital Defiance is a group of software engineers who are defying the 
   * [https://github.com/Digital-Defiance/Digital-Defiance](https://github.com/Digital-Defiance/Digital-Defiance) - Organization repository whose readme is on the GitHub organization page.
   * [https://digitaldefiance.atlassian.net/wiki](https://digitaldefiance.atlassian.net/wiki) - Organization internal wiki
   * [https://github.com/Digital-Defiance/Digital-Defiance/wiki](https://github.com/Digital-Defiance/Digital-Defiance/wiki) - Organization public wiki
+  * [https://github.com/Digital-Defiance/Digital-Defiance/projects?query=is%3Aopen](https://github.com/Digital-Defiance/Digital-Defiance/projects?query=is%3Aopen) - Organization public project tracking
   * [https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board](https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board) - Internal JIRA
 
 ### Keybase (primary communication hub and github repo backup)
