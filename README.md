@@ -85,9 +85,5 @@ In short, Digital Defiance is a group of software engineers who are defying the 
   * [https://github.com/Digital-Defiance/Duality-Social](https://github.com/Digital-Defiance/Duality-Social) Duality Social experimental network
 
 -----
-# [Partners and Donors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Partners-and-Donors)
- * Microsoft and [GitHub](https://support.github.com/contact/nonprofit) have given us non-profit status, including unlimited Team accounts.
- * [Jessica Mulein](mailto:jessica@mulein.com) provides most of the business licensing, software and accounting subscriptions, domain name and other fees associated with running the group.
- * [Studio 3T](https://studio3t.com/discount/) has graciously given us a 50% discount on all licenses. We presently own one 'Ultimate' seat.
- * [Codacy](https://app.codacy.com/organizations/gh/Digital-Defiance) is free for Open Source and measures code quality similar to Dependabot
- * [MongoDB](https://www.mongodb.com/startups) has graciously given us a $500 credit good for one year to help bootstrap our projects, including a site for the guild itself.
+# Partners and Donors
+  * See the [Partners and Donors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Partners-and-Donors) page on our website
