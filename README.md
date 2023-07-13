@@ -32,6 +32,12 @@ A 501c3 (federal filed 3/22/23) non-profit group of Software Engineers working t
 ## Mission Statement
 To create a fellowship of software engineers, mentoring new and seasoned colleagues alike, who will work together on projects of public utility and interest. We will gain new knowledge on our personal projects and select high priority work from the Open Source community.
 
+### Stated Goals
+ * Mentor developers in agile, test driven development, and other enterprise best practices
+ * Provide software and other resources developers need either for free or at negotiated discount rates
+ * Find needful software in the public that could benefit from our help, particularly those with monetary rewards for fixes.
+ * Develop new software with proper testing and development methodologies that foster development of reliable, scalable software.
+
 ## The Name
 "Digital Defiance" represents a group of open source software engineers who are challenging the traditional ways of working in the software industry. They are defying the notion that software development has to be done in a closed, proprietary environment. They are defying the idea that software engineers have to work in isolation, without support or mentorship.
 
