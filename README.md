@@ -4,9 +4,9 @@
 
 ![Original Logo](https://user-images.githubusercontent.com/3766240/226702903-ce6c1d2a-47fa-414f-a6dc-b65a5a805e9a.png)
 
-A 501c3 (federal filed 3/22/23) non-profit group of Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
+A federally recognized 501c3 non-profit group of Open Source Software Engineers working together to make the best use of their free time in order to further projects of value to mankind.
 
-* Founded in 2022, incorporated officially in 2023 by Jessica Mulein, aka "Jessie Mercurial" on GitHub with the help of BDisp and Rui Campos.
+* Founded in 2022, incorporated officially in 2023 by Jessica Mulein with the help of BDisp and Rui Campos.
 * We have our own passion projects which are generally for the planet, both fun/demonstrative as well as libraries to enable those.
 * We also look for deserving open source projects that need either process coaching, an extra hand fixing bugs, or any other need.
 * Contributors generally help each-other's passion projects and work towards common goals as a team to work more effectively.
@@ -23,8 +23,8 @@ A 501c3 (federal filed 3/22/23) non-profit group of Software Engineers working t
 - Members mentor each other using our pet projects that are generally for the public good.
 - Members try to prioritize working on designated critical tasks from community projects- generally on GitHub.
 - We'll have occasional meetings to discuss which project tasks go to the top of the pile and try to generally follow and teach Agile principles.
-- There is already a 24-7 chatroom on Keybase where we already have several members discussing various projects being worked on.
-- This is not (yet?) a union and we do not and will not strike as these are open source developers working in an unpaid volunteer capacity.
+- There is already a 24-7 chatroom on Discord where we already have multiple members discussing various projects being worked on.
+- This is not (yet?) a union and we are open source developers working in an unpaid volunteer capacity.
 - Dues will go towards our software subscriptions and other overhead
 - Additional income beyond our needs will possibly be distributed to developers as bug/ticket bounties.
 - If this sounds good to you, check out DigitalDefiance.org or email jessica@digitaldefiance.org
@@ -49,14 +49,17 @@ In short, Digital Defiance is a group of software engineers who are defying the 
   * [https://digitaldefiance.org](https://digitaldefiance.org) - Organization Website
   * [https://github.com/Digital-Defiance](https://github.com/Digital-Defiance) - GitHub Organization
   * [https://github.digitaldefiance.org](https://github.digitaldefiance.org) - GitHub Organization page
-  * [https://github.com/Digital-Defiance/Digital-Defiance](https://github.com/Digital-Defiance/Digital-Defiance) - Organization repository whose readme is on the GitHub organization page.
+  * [https://github.com/Digital-Defiance/Digital-Defiance](https://github.com/Digital-Defiance/Digital-Defiance) - Organization repository whose readme is on the GitHub organization page. Contains public documents about Digital Defiance, our stated goals, etc.
+  * [https://github.com/Digital-Defiance/Guild-Meetings](https://github.com/Digital-Defiance/Guild-Meetings) - Guild Meeting Minutes
   * [https://digitaldefiance.atlassian.net/wiki](https://digitaldefiance.atlassian.net/wiki) - Organization internal wiki
-  * [https://github.com/Digital-Defiance/Digital-Defiance/wiki](https://github.com/Digital-Defiance/Digital-Defiance/wiki) - Organization public wiki
   * [https://github.com/orgs/Digital-Defiance/projects](https://github.com/orgs/Digital-Defiance/projects) - Organization public project tracking
   * [https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board](https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board) - Internal JIRA
-  * [https://github.com/Digital-Defiance/Guild-Meetings](https://github.com/Digital-Defiance/Guild-Meetings) - Guild Meeting Minutes
 
-### Keybase (primary communication hub and github repo backup)
+### Discord (primary communications hub)
+
+* [https://discord.gg/8ASAAxzyyM](https://discord.gg/8ASAAxzyyM)
+
+### Keybase (alternate communication hub and github repo backup)
 
 * [https://keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
 
@@ -93,6 +96,23 @@ In short, Digital Defiance is a group of software engineers who are defying the 
 -----
 # Partners and Donors
   * See the [Partners and Donors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Partners-and-Donors) page on our website
+
+# Corporate information
+
+Federal 501c3:
+  - https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations
+  - EIN: 92-2446612
+  - Date of effective IRS recognition: March 2023
+  - Date IRS letter received: 7/14/23
+Incorporated WA State:
+  - https://ccfs.sos.wa.gov/#/BusinessSearch
+  - WA registration number: 2008006
+  - UBI: 605 164 939
+  - Date of incorporation: 3/23/23
+
+# Contact Information
+Please direct any inquiries to the Board of Directors
+- board [at] digitaldefiance.org
 
 -----
 # Special Page
