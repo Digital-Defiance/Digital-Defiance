@@ -93,3 +93,7 @@ In short, Digital Defiance is a group of software engineers who are defying the 
 -----
 # Partners and Donors
   * See the [Partners and Donors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Partners-and-Donors) page on our website
+
+-----
+# Special Page
+This README.md is the github special profile page for the Digital Defiance organization.
