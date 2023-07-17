@@ -104,6 +104,7 @@ Federal 501c3:
   - EIN: 92-2446612
   - Date of effective IRS recognition: March 2023
   - Date IRS letter received: 7/14/23
+
 Incorporated WA State:
   - https://ccfs.sos.wa.gov/#/BusinessSearch
   - WA registration number: 2008006
