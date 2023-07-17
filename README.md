@@ -81,7 +81,7 @@ In short, Digital Defiance is a group of software engineers who are defying the 
   * [https://github.com/orgs/Digital-Defiance/people](https://github.com/orgs/Digital-Defiance/people)
   * [https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors)
   * Board Members
-    - https://github.com/Digital-Defiance/Digital-Defiance/wiki/Board-Members
+    - [https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Board-Members.md](https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Board-Members.md)
     - Jessica Mulein: President & Chief Operating Officer
     - Hannah Mulein: Treasurer
     - Joe Arceneaux: Secretary
@@ -102,13 +102,13 @@ In short, Digital Defiance is a group of software engineers who are defying the 
 # Corporate information
 
 Federal 501c3:
-  - https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations
+  - [https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations](https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations)
   - EIN: 92-2446612
   - Date of effective IRS recognition: March 2023
   - Date IRS letter received: 7/14/23
 
 Incorporated WA State:
-  - https://ccfs.sos.wa.gov/#/BusinessSearch
+  - [https://ccfs.sos.wa.gov/#/BusinessSearch](https://ccfs.sos.wa.gov/#/BusinessSearch)
   - WA registration number: 2008006
   - UBI: 605 164 939
   - Date of incorporation: 3/23/23
