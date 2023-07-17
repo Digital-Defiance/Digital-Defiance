@@ -82,9 +82,11 @@ In short, Digital Defiance is a group of software engineers who are defying the 
   * [https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors)
   * Board Members
     - https://github.com/Digital-Defiance/Digital-Defiance/wiki/Board-Members
-    - Jessica Mulein: Chief Operating Officer
-    - Rui Campos: Title TBD
-
+    - Jessica Mulein: President & Chief Operating Officer
+    - Hannah Mulein: Treasurer
+    - Joe Arceneaux: Secretary
+  * Foreign Advisory Board: TBD (voice for members not in the USA)
+    - Rui Campos
   * Co-Founders
     - More than contributors, [BDisp](https://github.com/orgs/Digital-Defiance/people/BDisp) and [Rui Campos](https://github.com/orgs/Digital-Defiance/people/RuiFilipeCampos) are co-founders of this organization.
 
