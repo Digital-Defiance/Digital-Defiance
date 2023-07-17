@@ -13,12 +13,6 @@
 * Hannah Mulein
 * hannah@mulein.com
 
-
-### Notes
-* We still need to open a bank account, which I think I can do with the documents I have.
-* We've filed for incorporation and 501c status, it is in progress.
-  * Once we have that and get a DUNS number, we can actually apply for grants and I will actively seek out any that I think we can take on as a group. Actually, I know a guy...
-
 ## Duties
 
 ### President
@@ -62,3 +56,26 @@ As a board member with the title of secretary, your main responsibility will be 
 In addition to these administrative duties, as a board member you will be responsible for helping to set the organization's goals and strategies, making decisions about how the organization's resources should be used, and providing oversight to ensure that the organization is operating effectively and efficiently.
 
 It's important to note that as a board member, you have a legal and ethical responsibility to act in the best interests of the organization and its stakeholders, which includes its members, donors, and the broader community it serves. This means that you should be committed to upholding the organization's mission and values, and making decisions that will help it achieve its goals and make a positive impact in the world.
+
+
+### Future
+#### Vice President
+
+As the Vice President of the organization, you will play a crucial role in supporting the President and other board members in fulfilling the organization's mission and strategic goals. Your specific duties and responsibilities include:
+
+* Assisting the President in providing overall leadership and direction for the organization, especially in the President's absence or when delegated specific tasks or responsibilities.
+* Collaborating with the President and other board members to develop and implement the organization's mission, vision, and strategic plans.
+* Supporting the President in presiding over board meetings and making decisions in the best interest of the organization.
+* Working closely with the Treasurer to review and approve the organization's budget and financial plans, ensuring financial stability and accountability.
+* Assisting in managing the organization's staff and volunteers, if applicable, to ensure efficient and effective operations.
+* Playing a supportive role as a spokesperson for the organization, assisting in building relationships with key stakeholders and promoting the organization's work in the community.
+* Contributing to fundraising efforts, identifying potential sources of funding, and supporting the development of fundraising strategies.
+* Collaborating with the Secretary to ensure accurate documentation and communication of board decisions and actions.
+* Engaging in strategic planning and decision-making processes to further the organization's goals and impact.
+* Monitoring the organization's progress towards achieving its objectives, and providing feedback and suggestions for adjustments, as needed.
+* Assisting the President and other board members in maintaining a positive image and upholding high ethical standards for the organization.
+* Actively participating in board discussions, debates, and votes to ensure the board operates as a cohesive and effective team.
+* Representing the organization at public events and engaging with stakeholders to promote its mission and values.
+* Collaborating with the President and other board members to identify and explore potential partnerships and collaborative opportunities.
+
+As the Vice President, your role is instrumental in providing leadership and support to the organization, contributing to its success, and ensuring its commitment to its mission and the communities it serves. Your dedication to the organization's objectives and your ability to work collaboratively with fellow board members will be essential in guiding the organization towards a positive impact.
