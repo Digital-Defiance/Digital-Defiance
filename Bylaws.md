@@ -8,8 +8,10 @@ The name of this organization shall be Digital Defiance.
 The purpose of this organization shall be to create a fellowship of software engineers who mentor new and seasoned colleagues alike and work together on projects of public utility and interest. The organization will prioritize working on designated critical tasks from community projects and follow Agile principles.
 
 ## Article II: Incorporation
-### Section 1. Digital Defiance is incorporated under the laws of the State of Washington. It shall have the structure, powers, and functions of a non-profit corporation as delineated under Washington statutes.
-### Section 2. The general management of Digital Defiance shall be vested in a Board of Directors which shall have the same duties and powers as the directors of a duly incorporated organization.
+### Section 1. State of incorporation
+Digital Defiance is incorporated under the laws of the State of Washington. It shall have the structure, powers, and functions of a non-profit corporation as delineated under Washington statutes.
+### Section 2. Board of Directors
+The general management of Digital Defiance shall be vested in a Board of Directors which shall have the same duties and powers as the directors of a duly incorporated organization.
 
 ## Article III: Membership
 ### Section 1. Eligibility
