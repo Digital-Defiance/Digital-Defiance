@@ -1,3 +1,4 @@
-# Active Projects
-# Future Projects
-# Archived Projects
+# Digital Defiance Projects
+## Active Projects
+## Future Projects
+## Archived Projects
