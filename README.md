@@ -91,9 +91,8 @@ In short, Digital Defiance is a group of software engineers who are defying the 
     - More than contributors, [BDisp](https://github.com/orgs/Digital-Defiance/people/BDisp) and [Rui Campos](https://github.com/orgs/Digital-Defiance/people/RuiFilipeCampos) are co-founders of this organization.
 
 # Projects Under Development
-  * [https://github.com/orgs/Digital-Defiance/projects/1](https://github.com/orgs/Digital-Defiance/projects/1)
-    - [HACC](https://github.com/Blazor-Console/HACC) HTML5 ANSI Console Canvas: A Blazor WebAssembly Component
-  * [https://github.com/Digital-Defiance/Duality-Social](https://github.com/Digital-Defiance/Duality-Social) Duality Social experimental network
+  * [Projects List](https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Projects.md)
+  * [GitHub Project Taskboard](https://github.com/orgs/Digital-Defiance/projects/1)
 
 -----
 # Partners and Donors
