@@ -1,32 +1,20 @@
-WIP
-
 2023/12/31
+
 Yearly Accountability Statement - Jessica Mulein
 Guild email alias - jessica@digitaldefiance.org
 
-Colleagues,
+Dear Colleagues,
 
-I am committed to upholding the principles of open-source software and contributing to our community's growth and success. As a member of this guild, I pledge to actively participate in open-source projects and utilize the benefits of my membership exclusively for the advancement of open-source software development.
+As a Board Member of Digital Defiance, I hereby certify that I have diligently fulfilled my duties and obligations to the Guild, the public, our partners, and donors throughout the past calendar year.
 
-My GitHub Profile showcases my dedication to open-source, where you can find evidence of my contributions to various projects. Here are a few notable projects I've been involved in this year:
+I remain deeply committed to upholding the principles of open-source software and actively contributing to the growth and success of our community. As a Board Member, my primary focus is on strategic decision-making and guiding the organization's direction.
 
-1. Project 1 - "AwesomeOpenSourceApp"
-   - GitHub Repository: [Project 1 GitHub Repo URL]
-   - Description: I played a key role in developing the frontend components and implementing new features for this open-source app that promotes community collaboration.
+I understand that Board Members are not required to participate in regular discussions or day-to-day guild matters, except for official meetings. However, I still pledge to utilize the benefits of my membership exclusively for the advancement of open-source software development and in support of the Guild's mission.
 
-2. Project 2 - "OpenSourceLibrary"
-   - GitHub Repository: [Project 2 GitHub Repo URL]
-   - Description: I contributed bug fixes and improved documentation to enhance the usability and reliability of this popular open-source library.
+I fully acknowledge the responsibility that comes with being a member of this guild, and I promise to use any granted or licensed software obtained through our membership solely for contributing to open-source projects.
 
-3. Project 3 - "ContributeTogether"
-   - GitHub Repository: [Project 3 GitHub Repo URL]
-   - Description: I initiated and led a collaborative effort to create a new feature, fostering teamwork among developers and driving project success.
-
-I understand that being a member of this guild means utilizing the resources and benefits responsibly. As such, I promise not to use granted or licensed software obtained through our membership for any other purpose than contributing to open-source projects.
-
-In order to provide more opportunity for others to learn, I will actively participate in discussions, share knowledge, and support fellow members in their open-source endeavors.
-
-If you have any questions or need assistance with any project, feel free to reach out to me. Together, we can continue to make a positive impact on the open-source community.
+In my role as a Board Member, I will continue to provide valuable insights during meetings and contribute to the overall success of the organization. If you have any questions or need assistance with any project, feel free to reach out to me. Together, we can continue to make a positive impact on the open-source community.
 
 Sincerely,
+
 Jessica Mulein
