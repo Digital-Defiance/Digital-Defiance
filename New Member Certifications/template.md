@@ -1,4 +1,4 @@
-<i>This certification is not required for Social Members<sup>*</sup></i> 
+<i>This certification is not required for Social Members<sup>*</sup></i>
 
 YYYY/MM/DD
 
@@ -32,12 +32,12 @@ Sincerely,
 [Your Name]
 
 Notes:
-	See the bylaws (Article III Section 1) for additional information on these membership types. All resource allocations are made by the Board, including email boxes.
+ See the bylaws (Article III Section 1) for additional information on these membership types. All resource allocations are made by the Board, including email boxes.
 
-​	<sup>*</sup> Social Members are participatory in one of our online communities, such as the forum on our website or Discord, but are not eligible to receive or utilize Guild resources as that requires additional oversight and accountability. This letter is not required for or applicable to Social Members.
-​	<sup>&dagger;</sup> A Board Member has extensive obligations to the Guild and the public, has full access to the breadth of operations of the Guild and therefore must also submit a Yearly Statement of Accountability, but it does not need to demonstrate public work- only a certification that the member fulfilled their obligations as a Board Member that calendar year.
-​	<sup>&ddagger;</sup> A Research Partner is a member actively involved in developing novel concepts or projects, using a portion of grants and donations, with access to most unallocated Guild resources. They must submit a yearly statement certifying the responsible use of resources, and their work descriptions and links to code or papers will be showcased in the organization's GitHub repository. The statement is very similar to this one, but includes citations of work.
-​	<sup>&#x2E38;</sup> Code Contributing and Advisory members have potential access to Guild resources, provided they submit a yearly statement.
+​ <sup>*</sup> Social Members are participatory in one of our online communities, such as the forum on our website or Discord, but are not eligible to receive or utilize Guild resources as that requires additional oversight and accountability. This letter is not required for or applicable to Social Members.
+​ <sup>&dagger;</sup> A Board Member has extensive obligations to the Guild and the public, has full access to the breadth of operations of the Guild and therefore must also submit a Yearly Statement of Accountability, but it does not need to demonstrate public work- only a certification that the member fulfilled their obligations as a Board Member that calendar year.
+​ <sup>&ddagger;</sup> A Research Partner is a member actively involved in developing novel concepts or projects, using a portion of grants and donations, with access to most unallocated Guild resources. They must submit a yearly statement certifying the responsible use of resources, and their work descriptions and links to code or papers will be showcased in the organization's GitHub repository. The statement is very similar to this one, but includes citations of work.
+​ <sup>&#x2E38;</sup> Code Contributing and Advisory members have potential access to Guild resources, provided they submit a yearly statement.
 
 The following section is for Official Board Use Only upon vetting:
 
