@@ -16,7 +16,8 @@
   - [Section 4. Dues](#section-4-dues)
   - [Section 5. Good Standing](#section-5-good-standing)
   - [Section 6. Titles](#section-6-titles)
-  - [Section 7. Termination](#section-7-termination)
+  - [Section 7. Acceptable Use](#section-7-acceptable-use)
+  - [Section 8. Termination](#section-8-termination)
 - [Article IV: Board of Directors](#article-iv-board-of-directors)
   - [Section 1. Composition](#section-1-composition)
   - [Section 2. Duties](#section-2-duties)
@@ -145,17 +146,11 @@ Attend Guild meetings and events as required, demonstrating a commitment to the 
 
 ### Section 5. Titles
 
-DDM/DDGM: Members in Good Standing shall be able to display the title DDM (Digital Defiance Member) or DDGM (Digital Defiance Guild Member).
+Members in Good Standing shall be entitled to affix "DDG", "Digital Defiance", or "Digital Defiance Guild" to their names online or in paperwork where it is relevant. This suffix does not connote any additional responsibilities or duties and is a perk of membership.
 
-Prospective Members are voted in by a simple majority in either a board meeting or any gathering with at least 95% of the respective membership present.
+Eligible Members and Board Members may also affix their role, such as "DDG President", "DDG Research Partner", etc.
 
-Members may likewise have motions to be disbarred by a simple majority of any gathering with at least 2/3 of the members in good standing present, or a 2/3 majority by the Board.
-
-Non-Board Members do not need to be code contributing to have the title, but it is preferred.
-
-Board members may append “DDG” (Digital Defiance or Digital Defiance Guild) and their Role. e.g., DDG President.
-
-Use of the title by those not in Good Standing is prohibited and may result in legal action.
+Use of the title by those not in Good Standing or by Social Members is prohibited and may result in legal action.
 
 ### Section 6. Voting
 
@@ -163,9 +158,19 @@ Members in Good Standing may vote during official Guild meetings. Members may vo
 
 A quorum shall consist of a minimum of a simple majority of the members in Good Standing.
 
-### Section 7. Termination
+### Section 7. Acceptable Use
 
-Membership may be terminated by the Board of Directors for failure to pay dues, violation of the organization’s bylaws, or for any other reason deemed appropriate by the Board.
+- All use of Guild Resources must be in the service of creating Open Source Software.
+- Guild Resources may not be used to create a for-profit project or organization. Guild Email may not be used in the service of a for-profit endeavor.
+- All Members using Guild Resources submit a Yearly Accountability Statement/Project Portfolio.
+- Guild Resources must only be requested with a specific need or goal in mind.
+- Members shall not claim to be employees. This Guild has no employees, other than possibly the Board at a later date.
+
+### Section 8. Termination
+
+Membership may be terminated by the Board of Directors for failure to pay dues, violation of the organization’s bylaws, including Section 7 Acceptable Use, or for any other reason deemed appropriate by the Board.
+
+Members may likewise have motions to be disbarred by a simple majority of any officially and properly announced meeting with at least 2/3 of the members in good standing present, or a 2/3 majority by the Board if all are present.
 
 ## Article IV: Board of Directors
 
