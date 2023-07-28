@@ -8,7 +8,10 @@
 - [Article II: Incorporation](#article-ii-incorporation)
   - [Section 1. State of Incorporation](#section-1-state-of-incorporation)
   - [Section 2. Board of Directors](#section-2-board-of-directors)
-  - [Section 3. Offices](#section-3-offices)
+  - [Section 3. Advisory Board](#section-3-advisory-board)
+  - [Section 4. Offices](#section-4-offices)
+  - [Section 5. Fiscal Year](#section-5-fiscal-year)
+  - [Section 6. Volunteers](#section-6-volunteers)
 - [Article III: Membership](#article-iii-membership)
   - [Section 1. Types of Membership](#section-1-types-of-membership)
   - [Section 2. Eligibility](#section-2-eligibility)
@@ -47,6 +50,20 @@ The name of this organization shall be Digital Defiance.
 
 Digital Defiance is organized exclusively for charitable, educational, and scientific purposes, within the meaning of Section 501(c)(3) of the Internal Revenue Code. The purpose of this organization shall be to create a fellowship of software engineers who mentor new and seasoned colleagues alike and work together on projects of public utility and interest, thereby promoting the progress of science and useful arts (as defined in the U.S. Constitution, Article I, Section 8) as well as promoting civil discourse and the free exchange of ideas. Further, this organization shall have an interest in promoting a civil society through software by assisting in or developing software that promotes the rule of law in the physical world.
 
+### Section 3. Mission Statement
+
+The mission of Digital Defiance, a non-profit organization under Section 501(c)(3) of the Internal Revenue Code, is to foster an inclusive community of software engineers committed to educating, mentoring, and collaboratively working on projects that serve the public interest and advance the frontiers of science and useful arts. By embracing the free exchange of ideas and civil discourse, we aspire to strengthen our democratic principles as highlighted in Article I, Section 8 of the U.S. Constitution. Furthermore, our organization is dedicated to promoting a civil society through the creation and enhancement of software that aids in upholding the rule of law in the physical world.
+
+### Section 4. Stated Goals
+
+In addition to our Mission Statement, we adhere to the following Stated Goals:
+
+- Cultivate professional growth among developers by imparting Agile methodologies, test-driven development, and other essential enterprise practices.
+- Equip developers with necessary software and resources, either at no cost or at negotiated preferential rates, to facilitate efficient software development.
+- Identify and enhance valuable public software that could benefit from our expertise, particularly those offering financial rewards for improvements or fixes. These rewards will be allocated to cover our operational costs and potentially serve as bonus incentives for our contributing developers.
+- Commit to the creation of new software using thorough testing and development methodologies that uphold the integrity of scalable and reliable software.
+- Whenever feasible, prioritize projects that contribute to a civil society and support the enforcement of the rule of law in the physical world.
+
 ## Article II: Incorporation
 
 ### Section 1. State of Incorporation
@@ -82,7 +99,7 @@ The fiscal year of Digital Defiance shall begin on the first day of January and 
 
 At this time, all members of Digital Defiance shall be volunteers. No member shall receive compensation for their services.
 
-Digital Defiance does not have employees, only Volunteers. Membership alone does not construe any kind of employment.
+Digital Defiance does not have employees, only Volunteers. Membership alone does not construe any kind of employment. Board Members, Officers, and Financial Advisors are currently uncompensated volunteers.
 
 ## Article III: Membership
 
