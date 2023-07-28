@@ -23,7 +23,7 @@ Should I choose to receive Guild resources, I acknowledge the responsibility it 
 
 In order to foster a conducive learning environment for all, I eagerly look forward to actively participating in meetings, discussions, sharing knowledge, and providing support to fellow members in their open-source endeavors to the best of my ability and time availability. I understand that abstaining from a meeting or vote means my voice will not be heard and may cause meetings to be delayed if there isn't sufficient membership to have the quorum required for a vote.
 
-I have reviewed the [Corporate Bylaws](https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Bylaws.md) and clearly understand the requirements of my chosen role.
+I have reviewed the [Corporate Bylaws](../Bylaws.md) and clearly understand the requirements of my chosen role.
 
 I am excited to be part of the Digital Defiance community and I am committed to making a positive impact on the world of Open Source software.
 
@@ -46,3 +46,4 @@ The following section is for Official Board Use Only upon vetting:
 - [ ] GitHub Org invited, github alias: [username]
 - [ ] Wordpress user created
 - [ ] Atlassian user created (limited availability at this time)
+- [ ] QuickBooks access granted

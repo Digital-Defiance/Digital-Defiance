@@ -45,7 +45,7 @@ The name of this organization shall be Digital Defiance.
 
 ### Section 2. Purpose
 
-Digital Defiance is organized exclusively for charitable, educational, and scientific purposes, within the meaning of Section 501(c)(3) of the Internal Revenue Code. The purpose of this organization shall be to create a fellowship of software engineers who mentor new and seasoned colleagues alike and work together on projects of public utility and interest. The organization shall prioritize working on designated critical tasks from community projects as soon as sufficient membership and organization allow.
+Digital Defiance is organized exclusively for charitable, educational, and scientific purposes, within the meaning of Section 501(c)(3) of the Internal Revenue Code. The purpose of this organization shall be to create a fellowship of software engineers who mentor new and seasoned colleagues alike and work together on projects of public utility and interest, thereby promoting the progress of science and useful arts (as defined in the U.S. Constitution, Article I, Section 8) as well as promoting civil discourse and the free exchange of ideas. Further, this organization shall have an interest in promoting a civil society through software by assisting in or developing software that promotes the rule of law in the physical world.
 
 ## Article II: Incorporation
 
@@ -73,6 +73,16 @@ Digital Defiance
  11700 Mukilteo Speedway
  Ste 201 PMB 6003
  Mukilteo, WA 98275
+
+### Section 5. Fiscal Year
+
+The fiscal year of Digital Defiance shall begin on the first day of January and end on the last day of December in each year.
+
+### Section 6. Volunteers
+
+At this time, all members of Digital Defiance shall be volunteers. No member shall receive compensation for their services.
+
+Digital Defiance does not have employees, only Volunteers. Membership alone does not construe any kind of employment.
 
 ## Article III: Membership
 
@@ -109,6 +119,14 @@ Members using Guild resoruces shall be required to submit a yearly statement whi
 #### Social Member
 
 Social Members are participatory in our online communities, such as the forum on our website or Discord.
+
+#### Financial Advisor
+
+Financial Advisors are members who have a background in finance and are willing to provide advice to the Board of Directors on financial matters. They are not expected to participate in matters pertaining to software, the membership or operation of the Guild, or any other matters outside of finance.
+
+Financial Advisors still must certify annually that their use of Guild resources such as QuickBooks and Email are used only in the service of creating open source software, which advising our organization fulfills.
+
+Specific obligations depend upon each individual Volunteer's role and willingness to participate. The Board of Directors shall determine the specific obligations of each Volunteer.
 
 ### Section 2. Eligibility
 
