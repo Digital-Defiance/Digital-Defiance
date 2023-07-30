@@ -48,11 +48,11 @@ The name of this organization shall be Digital Defiance.
 
 ### Section 2. Purpose
 
-Digital Defiance is organized exclusively for charitable, educational, and scientific purposes, within the meaning of Section 501(c)(3) of the Internal Revenue Code. The purpose of this organization shall be to create a fellowship of software engineers who mentor new and seasoned colleagues alike and work together on projects of public utility and interest, thereby promoting the progress of science and useful arts (as defined in the U.S. Constitution, Article I, Section 8) as well as promoting civil discourse and the free exchange of ideas. Further, this organization shall have an interest in promoting a civil society through software by assisting in or developing software that promotes the rule of law in the physical world.
+Digital Defiance is organized exclusively for charitable, educational, and scientific purposes, within the meaning of Section 501(c)(3) of the Internal Revenue Code. The purpose of this organization shall be to create a fellowship of engineers who mentor new and seasoned colleagues alike and work together on projects of public utility and interest, thereby promoting the progress of science and useful arts (as defined in the U.S. Constitution, Article I, Section 8) as well as promoting civil discourse and the free exchange of ideas. Further, this organization shall have an interest in promoting a civil society through open source by assisting in or developing software and hardware that promote the rule of law in the physical world.
 
 ### Section 3. Mission Statement
 
-The mission of Digital Defiance, a non-profit organization under Section 501(c)(3) of the Internal Revenue Code, is to foster an inclusive community of software engineers committed to educating, mentoring, and collaboratively working on projects that serve the public interest and advance the frontiers of science and useful arts. By embracing the free exchange of ideas and civil discourse, we aspire to strengthen our democratic principles as highlighted in Article I, Section 8 of the U.S. Constitution. Furthermore, our organization is dedicated to promoting a civil society through the creation and enhancement of software that aids in upholding the rule of law in the physical world.
+The mission of Digital Defiance, a non-profit organization under Section 501(c)(3) of the Internal Revenue Code, is to foster an inclusive community of engineers committed to educating, mentoring, and collaboratively working on projects that serve the public interest and advance the frontiers of science and useful arts. By embracing the free exchange of ideas and civil discourse, we aspire to strengthen our democratic principles as highlighted in Article I, Section 8 of the U.S. Constitution. Furthermore, our organization is dedicated to promoting a civil society through the creation and enhancement of software and hardware that aid in upholding the rule of law in the physical world.
 
 Digital Defiance is poised to grow from a single, United States Chapter to possibly including an EU Chapter. As the organization grows, a parent organization of the same name shall form and each subsequent chapter, as it becomes a part of Digital Defiance, will uphold this mission, ensuring unity in our global efforts. However, membership management and tracking may vary from chapter to chapter due to jurisdictional differences.
 
@@ -61,9 +61,9 @@ Digital Defiance is poised to grow from a single, United States Chapter to possi
 In addition to our Mission Statement, we adhere to the following Stated Goals:
 
 - Cultivate professional growth among developers by imparting Agile methodologies, test-driven development, and other essential enterprise practices.
-- Equip developers with necessary software and resources, either at no cost or at negotiated preferential rates, to facilitate efficient software development.
-- Identify and enhance valuable public software that could benefit from our expertise, particularly those offering financial rewards for improvements or fixes. These rewards will be allocated to cover our operational costs and potentially serve as bonus incentives for our contributing developers.
-- Commit to the creation of new software using thorough testing and development methodologies that uphold the integrity of scalable and reliable software.
+- Equip developers with necessary software, hardware, and other resources, either at no cost or at negotiated preferential rates, to facilitate efficient work on Open Source.
+- Identify and enhance valuable public software and hardware that could benefit from our expertise, particularly those offering financial rewards for improvements or fixes. These rewards will be allocated to cover our operational costs and potentially serve as bonus incentives for our contributing developers.
+- Commit to the creation of new software and hardware using thorough testing and development methodologies that uphold the integrity of scalable and reliable project deliverables.
 - Whenever feasible, prioritize projects that contribute to a civil society and support the enforcement of the rule of law in the physical world.
 
 ## Article II: Incorporation
@@ -111,7 +111,7 @@ Digital Defiance does not have employees, only Volunteers. Membership alone does
 
 #### Board Member
 
-A Board Member is a member who has a seat on the Board of Directors and may or may not be contributing code, but have access to the full breadth of Digital Defiance operations and shall be required to submit a yearly statement which certifies resources allocated are being used in the service of creating open source software or administrative duties therein. This statement shall also certify that the board member has fulfilled their duties for the preceding calendar year. This statement shall be produced beginning December 1st and completed by January 31st.
+A Board Member is a member who has a seat on the Board of Directors and may or may not be contributing code, but have access to the full breadth of Digital Defiance operations and shall be required to submit a yearly statement which certifies resources allocated are being used in the service of creating open source software, hardware, or administrative duties therein. This statement shall also certify that the board member has fulfilled their duties for the preceding calendar year. This statement shall be produced beginning December 1st and completed by January 31st.
 
 #### Research Partner
 
@@ -119,7 +119,7 @@ A research partner is a member who is performing essential work in developing no
 
 A Research Partner has potential access to all Guild shared and unallocated resources available within that person's country, but these resources must be allocated by the Board with the input of the Advisory Board.
 
-Research Partners shall be required to submit a yearly statement which certifies resources allocated are being used in the service of creating open source software. This statement shall be produced beginning December 1st and completed by January 31st.
+Research Partners shall be required to submit a yearly statement which certifies resources allocated are being used in the service of creating open source software and hardware. This statement shall be produced beginning December 1st and completed by January 31st.
 
 - These statements are an opportunity for members to present descriptions of their work and any links to code or papers. These statements will be published in an organized folder within the organization’s GitHub repository, and these members will have access to the GitHub org to be able to make direct commits and any others can make pull requests from a fork. This is an opportunity to showcase the Guild’s work and commitment to the open source community as well as our partners who generously donate Resources to our cause.
 
@@ -131,7 +131,7 @@ Research Partners shall be required to submit a yearly statement which certifies
 
 Code Contributing and Advisory members are entitled but not required to apply to use Guild resources which include an email box/address and access to resources through our partners, including those made available through TechSoup, as well the potential to make use of contracted Resources like SAAS/PAAS that contribute to our overhead.
 
-Members using Guild resoruces shall be required to submit a yearly statement which certifies resources allocated are being used in the service of creating open source software. This statement shall be produced beginning December 1st and completed by January 31st.
+Members using Guild resources shall be required to submit a yearly statement which certifies resources allocated are being used in the service of creating open source software and hardware. This statement shall be produced beginning December 1st and completed by January 31st.
 
 - These statements are an opportunity for members to present descriptions of their work and any links to code or papers. These statements will be published in an organized folder within the organization’s GitHub repository, and these members will have access to the GitHub org to be able to make direct commits and any others can make pull requests from a fork. This is an opportunity to showcase the Guild’s work and commitment to the open source community as well as our partners who generously donate Resources to our cause.
 
@@ -141,15 +141,15 @@ Social Members are participatory in our online communities, such as the forum on
 
 #### Financial Advisor
 
-Financial Advisors are members who have a background in finance and are willing to provide advice to the Board of Directors on financial matters. They are not expected to participate in matters pertaining to software, the membership or operation of the Guild, or any other matters outside of finance.
+Financial Advisors are members who have a background in finance and are willing to provide advice to the Board of Directors on financial matters. They are not expected to participate in matters pertaining to development, the membership or operation of the Guild, or any other matters outside of finance.
 
-Financial Advisors still must certify annually that their use of Guild resources such as QuickBooks and Email are used only in the service of creating open source software, which advising our organization fulfills.
+Financial Advisors still must certify annually that their use of Guild resources such as QuickBooks and Email are used only in the service of creating open source software and hardware, which advising our organization fulfills.
 
 Specific obligations depend upon each individual Volunteer's role and willingness to participate. The Board of Directors shall determine the specific obligations of each Volunteer.
 
 ### Section 2. Eligibility
 
-Membership in this organization shall be open to any individual who is interested in furthering Open Source projects of value to mankind and who actively contributes to Open Source within a given calendar year. Exception may be made for provisional members who are new to software development but intend to contribute to public code within that calendar year. The Board of Directors has the authority to make exceptions to these eligibility requirements as necessary. 
+Membership in this organization shall be open to any individual who is interested in furthering Open Source projects of value to mankind and who actively contributes to Open Source within a given calendar year. Exception may be made for provisional members who are new to software or hardware development but intend to contribute to public code within that calendar year. The Board of Directors has the authority to make exceptions to these eligibility requirements as necessary. 
 
 ### Section 3. Application
 
@@ -173,11 +173,9 @@ Uphold the Guild’s code of conduct and values, ensuring a safe and inclusive e
 
 Fulfill any financial obligations as agreed upon by the Guild, including the timely payment of dues. Any increase in dues must be approved by a 2/3 majority of all members.
 
-Only use software licensed through the Guild in the creation and modification of software that is maintained on public repositories in places like BitBucket, GitHub, Azure, and others.
+Only use resources obtained through the Guild in the creation and modification of software and hardware that are maintained on public repositories in places like BitBucket, GitHub, Azure, and others.
 
-Only use software as permitted by the terms of its license.
-
-Only use hardware for open source software- do not perform any commercial work on Guild provided hardware.
+Only use resources as permitted by the terms of their license in the service of creating open source software and hardware- do not perform any commercial work on Guild provided hardware.
 
 Attend Guild meetings and events as required, demonstrating a commitment to the group’s growth and development.
 
@@ -197,7 +195,7 @@ A quorum shall consist of a minimum of a simple majority of the members in Good 
 
 ### Section 7. Acceptable Use
 
-- All use of Guild Resources must be in the service of creating Open Source Software.
+- All use of Guild Resources must be in the service of creating Open Source Software and Hardware.
 - Guild Resources may not be used to create a for-profit project or organization. Guild Email may not be used in the service of a for-profit endeavor.
 - All Members using Guild Resources submit a Yearly Accountability Statement/Project Portfolio.
 - Guild Resources must only be requested with a specific need or goal in mind.

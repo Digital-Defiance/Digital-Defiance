@@ -1,36 +1,36 @@
 # Digital Defiance Open Source Engineering Guild: DDOSEG
-## Giving Open Source Software Engineers the support and mentorship they need to be effective in teams and most software workplaces.
+## Empowering Open Source Contributors with the necessary mentorship and support to thrive in team environments and various tech-centric workplaces, whether in software development or embedded electronics domains.
 
 ![Original Logo](https://user-images.githubusercontent.com/3766240/226702903-ce6c1d2a-47fa-414f-a6dc-b65a5a805e9a.png)
 
 ## Mission Statement
 
-The mission of Digital Defiance, a non-profit organization under Section 501(c)(3) of the Internal Revenue Code, is to foster an inclusive community of software engineers committed to educating, mentoring, and collaboratively working on projects that serve the public interest and advance the frontiers of science and useful arts. By embracing the free exchange of ideas and civil discourse, we aspire to strengthen our democratic principles as highlighted in Article I, Section 8 of the U.S. Constitution. Furthermore, our organization is dedicated to promoting a civil society through the creation and enhancement of software that aids in upholding the rule of law in the physical world.
+The mission of Digital Defiance, a non-profit organization under Section 501(c)(3) of the Internal Revenue Code, is to foster an inclusive community of engineers committed to educating, mentoring, and collaboratively working on projects that serve the public interest and advance the frontiers of science and useful arts. By embracing the free exchange of ideas and civil discourse, we aspire to strengthen our democratic principles as highlighted in Article I, Section 8 of the U.S. Constitution. Furthermore, our organization is dedicated to promoting a civil society through the creation and enhancement of software and hardware that aid in upholding the rule of law in the physical world.
 
 ## Stated Goals
 
 Stated Goals
 - Cultivate professional growth among developers by imparting Agile methodologies, test-driven development, and other essential enterprise practices.
-- Equip developers with necessary software and resources, either at no cost or at negotiated preferential rates, to facilitate efficient software development.
-- Identify and enhance valuable public software that could benefit from our expertise, particularly those offering financial rewards for improvements or fixes. These rewards will be allocated to cover our operational costs and potentially serve as bonus incentives for our contributing developers.
-- Commit to the creation of new software using thorough testing and development methodologies that uphold the integrity of scalable and reliable software.
+- Equip developers with necessary software, hardware, and other resources, either at no cost or at negotiated preferential rates, to facilitate efficient work on Open Source.
+- Identify and enhance valuable public software and hardware that could benefit from our expertise, particularly those offering financial rewards for improvements or fixes. These rewards will be allocated to cover our operational costs and potentially serve as bonus incentives for our contributing developers.
+- Commit to the creation of new software and hardware using thorough testing and development methodologies that uphold the integrity of scalable and reliable project deliverables.
 - Whenever feasible, prioritize projects that contribute to a civil society and support the enforcement of the rule of law in the physical world.
 
 Bylaws: [GitHub](Bylaws.md) (currently in draft stage, unratified)
 
-Digital Defiance is a federally registered, tax-deductible non-profit 501c3 organization, situated in Washington State. We’re an alliance of Software Engineers, dedicating our efforts to projects of high societal value. Established in 2022 by Jessica Mulein and supported by BDisp and Rui Campos, we have carved a space where Open Source software engineering thrives.
+Digital Defiance is a federally registered, tax-deductible non-profit 501c3 organization, situated in Washington State. We’re an alliance of Engineers, dedicating our efforts to projects of high societal value. Established in 2022 by Jessica Mulein and supported by BDisp and Rui Campos, we have carved a space where Open Source engineering thrives.
 
-Our mission is simple: foster a fellowship of software engineers and promote mutual mentorship and collaboration. We believe in the power of open source development, emphasizing that high-quality software can be crafted in transparent, cooperative environments.
+Our mission is simple: foster a fellowship of engineers and promote mutual mentorship and collaboration. We believe in the power of open source development, emphasizing that high-quality software and hardware can be crafted in transparent, cooperative environments.
 
-As a collective, we leverage the best tools and practices, akin to those used by large enterprises. We engage in projects that not only challenge us but also serve as learning opportunities, and by doing so, we advocate for a more open, collaborative software industry.
+As a collective, we leverage the best tools and practices, akin to those used by large enterprises. We engage in projects that not only challenge us but also serve as learning opportunities, and by doing so, we advocate for a more open, collaborative industry.
 
-Our members participate in diverse passion projects, ranging from demonstrative apps to indispensable libraries, all with an underlying objective of enhancing the greater software ecosystem. We also extend our expertise to other deserving open source projects, offering assistance in process refinement, bug fixing, and more. This culture of peer mentoring and shared goals fuels our team’s overall effectiveness and innovation.
+Our members participate in diverse passion projects, ranging from demonstrative apps to indispensable libraries, all with an underlying objective of enhancing the greater software and hardware ecosystem. We also extend our expertise to other deserving open source projects, offering assistance in process refinement, bug fixing, and more. This culture of peer mentoring and shared goals fuels our team’s overall effectiveness and innovation.
 
 At Digital Defiance, every member is a valuable partner, contributing to a cooperative run like an Agile enterprise team. While we value commitment, we understand the importance of flexibility and encourage a balance between dedication and well-being.
 
-Membership with Digital Defiance brings a suite of benefits, including access to free and discounted resources to be used only in creating Open Source software for non-commercial use. Funds donated or generated including through membership dues will cover our operational costs, with any surplus potentially used as incentives for developers.
+Membership with Digital Defiance brings a suite of benefits, including access to free and discounted resources to be used only in creating Open Source projects for non-commercial use. Funds donated or generated including through membership dues will cover our operational costs, with any surplus potentially used as incentives for developers.
 
-To join our mission of fostering an open, transparent software development culture, please refer to our Bylaws or email Jessica at info@digitaldefiance.org. Together, we can bolster the open-source community and contribute to a more interconnected digital world.
+To join our mission of fostering an open, transparent development culture, please refer to our Bylaws or email Jessica at info@digitaldefiance.org. Together, we can bolster the open-source community and contribute to a more interconnected digital world.
 
 ## Chapters
 
