@@ -54,6 +54,8 @@ Digital Defiance is organized exclusively for charitable, educational, and scien
 
 The mission of Digital Defiance, a non-profit organization under Section 501(c)(3) of the Internal Revenue Code, is to foster an inclusive community of software engineers committed to educating, mentoring, and collaboratively working on projects that serve the public interest and advance the frontiers of science and useful arts. By embracing the free exchange of ideas and civil discourse, we aspire to strengthen our democratic principles as highlighted in Article I, Section 8 of the U.S. Constitution. Furthermore, our organization is dedicated to promoting a civil society through the creation and enhancement of software that aids in upholding the rule of law in the physical world.
 
+Digital Defiance is poised to grow from a single, United States Chapter to possibly including an EU Chapter. As the organization grows, a parent organization of the same name shall form and each subsequent chapter, as it becomes a part of Digital Defiance, will uphold this mission, ensuring unity in our global efforts. However, membership management and tracking may vary from chapter to chapter due to jurisdictional differences.
+
 ### Section 4. Stated Goals
 
 In addition to our Mission Statement, we adhere to the following Stated Goals:
