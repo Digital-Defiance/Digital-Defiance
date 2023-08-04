@@ -1,4 +1,5 @@
 # Digital Defiance Open Source Engineering Guild: DDOSEG
+
 ## Empowering Open Source Contributors with the necessary mentorship and support to thrive in team environments and various tech-centric workplaces, whether in software development or embedded electronics domains.
 
 ![Original Logo](https://user-images.githubusercontent.com/3766240/226702903-ce6c1d2a-47fa-414f-a6dc-b65a5a805e9a.png)
@@ -10,6 +11,7 @@ The mission of Digital Defiance, a non-profit organization under Section 501(c)(
 ## Stated Goals
 
 Stated Goals
+
 - Cultivate professional growth among developers by imparting Agile methodologies, test-driven development, and other essential enterprise practices.
 - Equip developers with necessary software, hardware, and other resources, either at no cost or at negotiated preferential rates, to facilitate efficient work on Open Source.
 - Identify and enhance valuable public software and hardware that could benefit from our expertise, particularly those offering financial rewards for improvements or fixes. These rewards will be allocated to cover our operational costs and potentially serve as bonus incentives for our contributing developers.
@@ -42,76 +44,91 @@ See [Future Structure](future/Structure.md).
   - https://github.com/Digital-Defiance/digitaldefiance-us 
 
 ## Sites
-  * [https://digitaldefiance.org](https://digitaldefiance.org) - Organization Website
-  * [https://github.com/Digital-Defiance](https://github.com/Digital-Defiance) - GitHub Organization
-  * [https://github.digitaldefiance.org](https://github.digitaldefiance.org) - GitHub Organization page
-  * [https://github.com/Digital-Defiance/Digital-Defiance](https://github.com/Digital-Defiance/Digital-Defiance) - Organization repository whose readme is on the GitHub organization page. Contains public documents about Digital Defiance, our stated goals, etc.
-  * [https://github.com/Digital-Defiance/Guild-Meetings](https://github.com/Digital-Defiance/Guild-Meetings) - Guild Meeting Minutes
-  * [https://digitaldefiance.atlassian.net/wiki](https://digitaldefiance.atlassian.net/wiki) - Organization internal wiki
-  * [https://github.com/orgs/Digital-Defiance/projects](https://github.com/orgs/Digital-Defiance/projects) - Organization public project tracking
-  * [https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board](https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board) - Internal JIRA
+
+- [https://digitaldefiance.org](https://digitaldefiance.org) - Organization Website
+- [https://github.com/Digital-Defiance](https://github.com/Digital-Defiance) - GitHub Organization
+- [https://github.digitaldefiance.org](https://github.digitaldefiance.org) - GitHub Organization page
+- [https://github.com/Digital-Defiance/Digital-Defiance](https://github.com/Digital-Defiance/Digital-Defiance) - Organization repository whose readme is on the GitHub organization page. Contains public documents about Digital Defiance, our stated goals, etc.
+- [https://github.com/Digital-Defiance/Guild-Meetings](https://github.com/Digital-Defiance/Guild-Meetings) - Guild Meeting Minutes
+- [https://digitaldefiance.atlassian.net/wiki](https://digitaldefiance.atlassian.net/wiki) - Organization internal wiki
+- [https://github.com/orgs/Digital-Defiance/projects](https://github.com/orgs/Digital-Defiance/projects) - Organization public project tracking
+- [https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board](https://digitaldefiance.atlassian.net/jira/core/projects/DDOSEG/board) - Internal JIRA
 
 ### Discord (primary communications hub)
 
-* [https://discord.gg/8ASAAxzyyM](https://discord.gg/8ASAAxzyyM)
+- [https://discord.gg/8ASAAxzyyM](https://discord.gg/8ASAAxzyyM)
 
 ### Keybase (alternate communication hub and github repo backup)
 
-* [https://keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
+- [https://keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
 
 ### Facebook
 
-* [https://www.facebook.com/DigitalDefiance/](https://www.facebook.com/DigitalDefiance/)
+- [https://www.facebook.com/DigitalDefiance/](https://www.facebook.com/DigitalDefiance/)
 
 ### Keybase (primary communication hub and github repo backup)
-  * [https://keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
+
+- [https://keybase.io/team/digitaldefiance](https://keybase.io/team/digitaldefiance)
 
 ### LinkedIn
-  * [https://www.linkedin.com/company/digital-defiance/about](https://www.linkedin.com/company/digital-rebellion/about)
+
+- [https://www.linkedin.com/company/digital-defiance/about](https://www.linkedin.com/company/digital-rebellion/about)
 
 ### Reddit
-  * [https://www.reddit.com/r/DigitalDefiance](https://www.reddit.com/r/DigitalDefiance/comments/11y3rvu/welcome_to_the_digital_defiance/)
+
+- [https://www.reddit.com/r/DigitalDefiance](https://www.reddit.com/r/DigitalDefiance/comments/11y3rvu/welcome_to_the_digital_defiance/)
 
 -----
-# Contributors
-  * [https://github.com/orgs/Digital-Defiance/people](https://github.com/orgs/Digital-Defiance/people)
-  * [https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors)
-  * Board Members
-    - [https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Board-Members.md](https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Board-Members.md)
-    - Jessica Mulein: President & Chief Operating Officer
-    - Hannah Mulein: Treasurer
-    - Joe Arceneaux: Secretary
-  * Foreign Advisory Board: TBD (voice for members not in the USA)
-    - Rui Campos
-  * Co-Founders
-    - More than contributors, [BDisp](https://github.com/orgs/Digital-Defiance/people/BDisp) and [Rui Campos](https://github.com/orgs/Digital-Defiance/people/RuiFilipeCampos) are co-founders of this organization.
 
-# Projects Under Development
-  * [Projects List](https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Projects.md)
-  * [GitHub Project Taskboard](https://github.com/orgs/Digital-Defiance/projects/1)
+## Contributors
+
+- [https://github.com/orgs/Digital-Defiance/people](https://github.com/orgs/Digital-Defiance/people)
+- [https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Contributors)
+- Board Members
+  - [https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Board-Members.md](https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Board-Members.md)
+  - Jessica Mulein: President & Chief Operating Officer
+  - Hannah Mulein: Treasurer
+  - Joe Arceneaux: Secretary
+- Foreign Advisory Board: TBD (voice for members not in the USA)
+  - Rui Campos
+- Co-Founders
+  - More than contributors, [BDisp](https://github.com/orgs/Digital-Defiance/people/BDisp) and [Rui Campos](https://github.com/orgs/Digital-Defiance/people/RuiFilipeCampos) are co-founders of this organization.
+
+## Projects Under Development
+
+- [Projects List](https://github.com/Digital-Defiance/Digital-Defiance/blob/main/Projects.md)
+- [GitHub Project Taskboard](https://github.com/orgs/Digital-Defiance/projects/1)
 
 -----
-# Partners and Donors
-  * See the [Partners and Donors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Partners-and-Donors) page on our website
 
-# Corporate information
+## Partners and Donors
+
+-- See the [Partners and Donors](https://github.com/Digital-Defiance/Digital-Defiance/wiki/Partners-and-Donors) page on our website
+
+## Corporate information
 
 Federal 501c3:
-  - [https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations](https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations)
-  - EIN: 92-2446612
-  - Date of effective IRS recognition: March 2023
-  - Date IRS letter received: 7/14/23
+
+- [https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations](https://www.irs.gov/charities-non-profits/search-for-tax-exempt-organizations)
+- EIN: 92-2446612
+- Date of effective IRS recognition: March 2023
+- Date IRS letter received: 7/14/23
 
 Incorporated WA State:
-  - [https://ccfs.sos.wa.gov/#/BusinessSearch](https://ccfs.sos.wa.gov/#/BusinessSearch)
-  - WA registration number: 2008006
-  - UBI: 605 164 939
-  - Date of incorporation: 3/23/23
 
-# Contact Information
+- [https://ccfs.sos.wa.gov/#/BusinessSearch](https://ccfs.sos.wa.gov/#/BusinessSearch)
+- WA registration number: 2008006
+- UBI: 605 164 939
+- Date of incorporation: 3/23/23
+
+## Contact Information
+
 Please direct any inquiries to the Board of Directors
+
 - board [at] digitaldefiance.org
 
 -----
-# Special Page
+
+## Special Page
+
 This README.md is the github special profile page for the Digital Defiance organization.
