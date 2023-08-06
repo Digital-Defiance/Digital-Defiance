@@ -25,7 +25,6 @@
 - [x] **DonorPerfect**
 
 **Challenge Coins:** 0
-
 **Coins Requested, Unshipped:** 3
 
 ## Personal Information, Encrypted
@@ -34,3 +33,4 @@
 | --------------- | ----- |
 | Personal Email  |       |
 | Emergency Phone |       |
+| Full Name       |       |

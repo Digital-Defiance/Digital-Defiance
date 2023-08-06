@@ -33,3 +33,4 @@
 | --------------- | ----- |
 | Personal Email  |       |
 | Emergency Phone |       |
+| Full Name       |       |

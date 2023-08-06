@@ -8,7 +8,7 @@
 **Good Standing:** Yes
 **Email Alias:** hannah
 **GitHub URL:** [https://github.com/hannahmulein](https://github.com/hannahmulein)
-**LinkedIn URL:**
+**LinkedIn URL:** n/a
 **Location:** United States, Washington
 **Timezone:** GMT-7/-8 Pacific Time
 
@@ -25,7 +25,6 @@
 - [x] **DonorPerfect**
 
 **Challenge Coins:** 0
-
 **Coins Requested, Unshipped:** 0
 
 ## Personal Information, Encrypted
@@ -34,3 +33,4 @@
 | --------------- | ----- |
 | Personal Email  |       |
 | Emergency Phone |       |
+| Full Name       |       |

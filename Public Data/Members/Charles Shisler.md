@@ -7,10 +7,10 @@
 **Date of Last YAS:** not filed yet, not due
 **Good Standing:** Yes
 **Email Alias:** charles
-**GitHub URL:**
+**GitHub URL:** ?
 **LinkedIn URL:** [https://www.linkedin.com/in/craysiii/](https://www.linkedin.com/in/craysiii/)
-**Location:**
-**Timezone:**
+**Location:** ?
+**Timezone:** ?
 
 ## Administrative
 
@@ -24,9 +24,8 @@
 - [ ] **QuickBooks**
 - [ ] **DonorPerfect**
 
-**Challenge Coins:** {Number}
-
-**Coins Requested, Unshipped:** {Number}
+**Challenge Coins:** 0
+**Coins Requested, Unshipped:** 0
 
 ## Personal Information, Encrypted
 
@@ -34,3 +33,4 @@
 | --------------- | ----- |
 | Personal Email  |       |
 | Emergency Phone |       |
+| Full Name       |       |

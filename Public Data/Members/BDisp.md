@@ -8,7 +8,7 @@
 **Good Standing:** Yes
 **Email Alias:** bdisp
 **GitHub URL:** [https://github.com/bdisp](https://github.com/bdisp)
-**LinkedIn URL:**
+**LinkedIn URL:** ?
 **Location:** Portugal, Lisbon
 **Timezone:** GMT+0/+1 Portugal
 
@@ -25,7 +25,6 @@
 - [ ] **DonorPerfect**
 
 **Challenge Coins:** 0
-
 **Coins Requested, Unshipped:** 0
 
 ## Personal Information, Encrypted
@@ -34,3 +33,4 @@
 | --------------- | ----- |
 | Personal Email  |       |
 | Emergency Phone |       |
+| Full Name       |       |

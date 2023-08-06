@@ -8,9 +8,9 @@
 **Good Standing:** Yes
 **Email Alias:** jon
 **GitHub URL:** [https://github.com/agumonkey](https://github.com/agumonkey)
-**LinkedIn URL:**
-**Location:**
-**Timezone:**
+**LinkedIn URL:** ?
+**Location:** ?
+**Timezone:** ?
 
 ## Administrative
 
@@ -25,7 +25,6 @@
 - [ ] **DonorPerfect**
 
 **Challenge Coins:** 0
-
 **Coins Requested, Unshipped:** 0
 
 ## Personal Information, Encrypted
@@ -34,3 +33,4 @@
 | --------------- | ----- |
 | Personal Email  |       |
 | Emergency Phone |       |
+| Full Name       |       |

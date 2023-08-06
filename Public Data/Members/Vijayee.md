@@ -8,9 +8,9 @@
 **Good Standing:** Yes
 **Email Alias:** vijayee
 **GitHub URL:** [https://github.com/vijayee](https://github.com/vijayee)
-**LinkedIn URL:**
-**Location:**
-**Timezone:**
+**LinkedIn URL:** ?
+**Location:** ?
+**Timezone:** ?
 
 ## Administrative
 
@@ -25,7 +25,6 @@
 - [ ] **DonorPerfect**
 
 **Challenge Coins:** 0
-
 **Coins Requested, Unshipped:** 0
 
 ## Personal Information, Encrypted

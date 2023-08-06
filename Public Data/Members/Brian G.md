@@ -8,9 +8,9 @@
 **Good Standing:** Yes
 **Email Alias:** brian
 **GitHub URL:** [https://github.com/ceponatia](https://github.com/ceponatia)
-**LinkedIn URL:**
-**Location:**
-**Timezone:**
+**LinkedIn URL:** ?
+**Location:** ?
+**Timezone:** ?
 
 ## Administrative
 
@@ -25,7 +25,6 @@
 - [ ] **DonorPerfect**
 
 **Challenge Coins:** 0
-
 **Coins Requested, Unshipped:** 0
 
 ## Personal Information, Encrypted
