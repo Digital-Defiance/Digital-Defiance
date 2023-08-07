@@ -1,14 +1,17 @@
 # Partners and Donors
 
+## Auth0 by Okta
+
+[Auth0](https://auth0.com/nonprofits) by [Okta ](https://www.okta.com/okta-and-auth0/)has given us a non-profit grant for their Startups plans, valued at approximately $20,000.
+
 ## Microsoft and GitHub
 
-Microsoft has donated $1000 for Azure, $2500 for OpenAI, and numerous free accounts for M365 and Azure.
-GitHub has given us non-profit status, including unlimited enterprise level accounts.
-With around 10 members and counting, at tens of dollars a month per user, those accounts at M365, Azure, and GitHub are worth a pile of money too.
-Jessica Mulein is working on Duality Social, a social network, and AI Against Humanity, a game. Digital Defiance is the owner of the copyright, but it’s all MIT licensed open source*.
-*I’m holding on to the AI Against Humanity source until release.
+- [Microsoft](https://nonprofit.microsoft.com/en-us/getting-started) through TechSoup has given discounts on Microsoft 365 Business licenses which run our email and gives us access to Microsoft Office applications.
+- [GitHub](https://support.github.com/contact/nonprofit) has given us non-profit status, including unlimited enterprise level accounts.
 
-- [https://nonprofit.microsoft.com](https://nonprofit.microsoft.com)
+## TechSoup
+
+[TechSoup](https://techsoup.org) has validated us as a non-profit and through them we have access to numerous grants, discounts and donations from their partner organizations. They instantly grow our available offerings immensely for our members.
 
 ## MongoDB
 
