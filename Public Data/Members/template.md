@@ -25,7 +25,6 @@
 - [ ] **DonorPerfect**
 
 **Challenge Coins:** {Number}
-
 **Coins Requested, Unshipped:** {Number}
 
 ## Personal Information, Encrypted
