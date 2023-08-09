@@ -34,15 +34,6 @@ Membership with Digital Defiance brings a suite of benefits, including access to
 
 To join our mission of fostering an open, transparent development culture, please refer to our Bylaws or email Jessica at info@digitaldefiance.org. Together, we can bolster the open-source community and contribute to a more interconnected digital world.
 
-## Chapters
-
-Presently Digital Defiance is one organization comprised of only the United States Chapter. Everything is managed through that organization, but in the future, the organization will change structure and be composed of individual chapters with a larger governing body that gives each chapter one or more votes proportional to their membership.
-
-See [Future Structure](future/Structure.md).
-
-- United States [digitaldefiance.us](https://digitaldefiance.us)
-  - https://github.com/Digital-Defiance/digitaldefiance-us 
-
 ## Sites
 
 - [https://digitaldefiance.org](https://digitaldefiance.org) - Organization Website
