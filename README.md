@@ -20,7 +20,7 @@ Stated Goals
 
 Bylaws: [GitHub](Bylaws.md) (currently in draft stage, unratified)
 
-Digital Defiance is a federally registered, tax-deductible non-profit 501c3 organization, situated in Washington State. We’re an alliance of Engineers, dedicating our efforts to projects of high societal value. Established in 2022 by Jessica Mulein and supported by BDisp and Rui Campos, we have carved a space where Open Source engineering thrives.
+Digital Defiance is a federally registered, tax-deductible non-profit 501c3 organization, situated in Washington State. We're an alliance of Engineers, dedicating our efforts to projects of high societal value. Founded in 2022 by Jessica Mulein, Hannah Mulein, and Joseph Arceneaux, with the invaluable support of Rui Campos, and BDisp we've created a thriving space for Open Source engineering.
 
 Our mission is simple: foster a fellowship of engineers and promote mutual mentorship and collaboration. We believe in the power of open source development, emphasizing that high-quality software and hardware can be crafted in transparent, cooperative environments.
 
