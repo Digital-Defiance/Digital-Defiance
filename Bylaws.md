@@ -219,7 +219,7 @@ The Board of Directors shall be responsible for the management and direction of 
 
 ### Section 3. Term
 
-## Upon completing their initial term of two years, board members may be eligible for renewal for additional terms, each lasting two years, for up to two consecutive terms. The decision for renewal shall be determined by a 2/3 majority vote of the membership present at a quarterly meeting. Board members who have served two consecutive terms are welcome to seek re-election if they wish to continue their service.
+The initial founding Board shall have tenure indefinitely. Additional board members brought in shall have a renewable two year term.
 
 ### Section 4. Meetings
 
