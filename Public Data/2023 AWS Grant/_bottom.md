@@ -4,5 +4,5 @@
 **Amount:**  
 **Quantity:**  
 **Total:**  
-**Balance:** =$SUM(F2:F{{ROW_COUNT-1}})
+**Balance:** =$SUM({{CURRENT_COLUMN_LETTER}}2:{{CURRENT_COLUMN_LETTER}}{{ROW_COUNT-1}})
 
