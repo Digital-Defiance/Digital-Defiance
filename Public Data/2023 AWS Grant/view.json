@@ -5,9 +5,9 @@
   },
   "columns": {
     "root.1.paragraph.1.text": "Item",
-    "root.1.paragraph.3.text": "Amount",
-    "root.1.paragraph.5.text": "Quantity",
-    "root.1.paragraph.7.text": "Total",
-    "root.1.paragraph.9.text": "Balance"
+    "root.1.paragraph.4.text": "Amount",
+    "root.1.paragraph.7.text": "Quantity",
+    "root.1.paragraph.10.text": "Total",
+    "root.1.paragraph.13.text": "Balance"
   }
 }
