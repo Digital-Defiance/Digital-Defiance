@@ -1,14 +1,14 @@
 # US
 
-**Name:** United States
-**Region:** North America
-**Jurisdiction:** United States
-**Website:** [https://digitaldefiance.us](https://digitaldefiance.us)
-**GitHub:** [https://github.com/Digital-Defiance/digitaldefiance-us](https://github.com/Digital-Defiance/digitaldefiance-us)
-**Chartered:** 03/20/2023
-**Locally Incorporated:** 03/20/2023
-**State or Province of Incorporation:** Washington State
-**Status:** Sole Chapter
+**Name:** United States  
+**Region:** North America  
+**Jurisdiction:** United States  
+**Website:** [https://digitaldefiance.us](https://digitaldefiance.us)  
+**GitHub:** [https://github.com/Digital-Defiance/digitaldefiance-us](https://github.com/Digital-Defiance/digitaldefiance-us)  
+**Chartered:** 03/20/2023  
+**Locally Incorporated:** 03/20/2023  
+**State or Province of Incorporation:** Washington State  
+**Status:** Sole Chapter  
 
 ## Notes
 

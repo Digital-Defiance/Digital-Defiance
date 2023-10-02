@@ -1,15 +1,15 @@
 # EU
 
-**Name:** European Union
-**Region:** Europe
-**Jurisdiction:** European Union Members
-**Website:** TBD
-**GitHub:** [https://github.com/Digital-Defiance/digitaldefiance-eu](https://github.com/Digital-Defiance/digitaldefiance-eu)
-**Chartered:** TBD
-**Locally Incorporated:** 03/20/2023
-**State or Province of Incorporation:** Washington State
-**Status:** Sole Chapter
-**Point of Contact:** {Point of Contact}
+**Name:** European Union  
+**Region:** Europe  
+**Jurisdiction:** European Union Members  
+**Website:** TBD  
+**GitHub:** [https://github.com/Digital-Defiance/digitaldefiance-eu](https://github.com/Digital-Defiance/digitaldefiance-eu)  
+**Chartered:** TBD  
+**Locally Incorporated:** 03/20/2023  
+**State or Province of Incorporation:** Washington State  
+**Status:** Sole Chapter  
+**Point of Contact:** {Point of Contact}  
 
 ## Notes
 
