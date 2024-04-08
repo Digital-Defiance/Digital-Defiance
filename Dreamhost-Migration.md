@@ -49,3 +49,8 @@
      * This will take some time
 
      * Repeat for each folder, eg 'Sent'.
+
+
+Unfortunately, there is no migration for any calendars you might have had, though I doubt that feature was being used much as we did not have any work events or meetings to schedule.
+
+OneDrive functionality is being replaced by Box.com. Please make sure to migrate all of your files from OneDrive to Box.com. You should have received an invite to Box.com. This must be done manually by uploading your entire 'OneDrive - Digital Defiance' folder up to Box.com.
