@@ -21,5 +21,5 @@
   ![image](https://github.com/Digital-Defiance/Digital-Defiance/assets/3766240/25c3f14e-abd3-4677-8e82-827b9c174e42)
   * Click 'Account Settings'
   ![image](https://github.com/Digital-Defiance/Digital-Defiance/assets/3766240/878e402f-abcc-4d1c-9338-d1e182f0bfa6)
-  * Click 'Account Acctions' and then 'Add mail account'
+  * Click 'Account Actions' and then 'Add mail account'
   ![image](https://github.com/Digital-Defiance/Digital-Defiance/assets/3766240/819a3608-9e4a-4f51-b902-0ce08f38c32c)
