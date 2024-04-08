@@ -25,4 +25,17 @@
      ![image](https://github.com/Digital-Defiance/Digital-Defiance/assets/3766240/819a3608-9e4a-4f51-b902-0ce08f38c32c)
 
 6) Fill in the DreamHost account details, this time filling in the password you were mailed in Step 1
-7) 
+     ![image](https://github.com/Digital-Defiance/Digital-Defiance/assets/3766240/3a4fa695-8849-46da-b0f4-e3f80ff2c85d)
+  * Click 'Configure Manually'
+  * Fill in the IMAP and SMTP details
+     ![image](https://github.com/Digital-Defiance/Digital-Defiance/assets/3766240/77c9f1e5-72db-483a-97ea-06a631e78301)
+     IMAP host is imap.dreamhost.com and port is 993
+     SMTP host is smtp.dreamhost.com and port is 465
+     Click 'Re-Test' and 'Done'
+
+8) You should now have two functioning email accounts in Thunderbird.
+  * Wait for all the email messages to download/index
+
+9) Select all (Ctrl+A/CMD+A) of the emails in each folder on the M365 account that you want to copy and drag them to the Inbox on the other (Dreamhost) account.
+  * This will take some time
+  * Repeat for each folder, eg 'Sent'.
