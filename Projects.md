@@ -6,7 +6,7 @@
   OpenBook is a unique, beta stage project that synchronizes a Git repository of Markdown files into MongoDB and enables data querying via Mongo and a REST API. The project combines the capabilities of Git, MongoDB, and Node.js, translates Markdown data into MongoDB records, and houses a node express RESTful service. A Docker image is also included for easy, platform-independent deployment. While still in development, OpenBook presents a novel approach to managing and querying small datasets.
   - repository: [https://github.com/Digital-Defiance/OpenBook](https://github.com/Digital-Defiance/OpenBook)
 
-- [Dominion ASsistant](https://github.com/Digital-Defiance/DominionAssistant)
+- [Dominion Assistant](https://github.com/Digital-Defiance/DominionAssistant)
 
     Enhance your physical Dominion game sessions with this comprehensive digital companion. Built with React and Capacitor for cross-platform use (web, iOS, Android), Dominion Assistant meticulously tracks game state, including player turns, resources (actions, buys, coins, VP), and expansion-specific mats like Coffers and Villagers. It maintains a detailed turn-by-turn log, calculates valuable game statistics, monitors supply pile counts, and allows you to save and load games in progress. Focus more on strategy and less on bookkeeping with this handy tool designed to streamline your Dominion experience, supporting various expansions like Alchemy, Renaissance, and Rising Sun.
 
