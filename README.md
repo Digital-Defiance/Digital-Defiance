@@ -1,4 +1,4 @@
-# Digital Defiance Open Source Engineering Guild: DDOSEG
+# Digital Defiance Open Source Engineering Guild
 
 ## Empowering Open Source Contributors with the necessary mentorship and support to thrive in team environments and various tech-centric workplaces, whether in software development or embedded electronics domains.
 
